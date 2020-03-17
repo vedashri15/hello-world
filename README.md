@@ -1,2 +1,3 @@
 # hello-world
-That repository everyone chooses to do first.
+Hey there!
+I am very much into animation and graphics and would want to contribute my work towards web development.
